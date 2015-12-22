@@ -1,0 +1,52 @@
+your comments are note very far in depth but are clear. the plots are missing from the markdowns (wich was requested)
++9/10
++
++NOTES ON YOUR PLOT
++==================
++
++units missing in labels
++
++tick labels too small
++
++lines unexplained
++
++color indistinguishable for the 10% of the male population that is color blind
++
++
++NOTES ON THE PLOTS YOU REVIEWED
++=================================
++
++kvp
++===
++nice color choice: avoiding blue and pink/red for male female is a good idea to avoid triggering preconceptions
++
++robust to color blindness
++
++low resolution (typical of seaborn) is questionable (remember tufte's rules)
++
++labels too small
++
++legend too small
++
++refer to gende, not sex.
++
++the artificial lower limit to the age gives the odd all equal upper quartile, and should be explained in the caption or in a text
++
++
++efzfish
++=======
++too many classes for redeability: they end up being indistinguishable in the plot
++
++the three dots in the legend (default) should be changed to 1 point since they are redundant and in a plot like this they overlap
++
++the emptiness of the plot makes it difficult to see structure: a compressed y axis would be better
++
++the number of users is redundant with the size of the dot. information should be delivered once clearly, but only once
++
++
++
++missing vrmotupalli. did you contact him? he was responsive by email
++
++
++
+No commit comments for this range
